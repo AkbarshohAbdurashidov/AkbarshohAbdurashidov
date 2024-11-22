@@ -20,7 +20,7 @@ You can find several exciting projects on my GitHub page:
 
 ## 🌐 Get in Touch
 - **Email**: [shakhrashidov@gmail.com]  
-- **GitHub**: [Link to your GitHub profile]  
+- **GitHub**: [(https://github.com/AkbarshohAbdurashidov/AkbarshohAbdurashidov/tree/main)]  
 - **LinkedIn**: [[Link to my LinkedIn profile](https://www.linkedin.com/in/shakh-rashidov-60420625b/)]
 
 Creating impactful software inspires me to keep learning and growing every day. 🙂
