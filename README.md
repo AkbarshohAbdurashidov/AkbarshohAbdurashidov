@@ -19,8 +19,8 @@ You can find several exciting projects on my GitHub page:
 - Continuously learning and experimenting with new technologies  
 
 ## 🌐 Get in Touch
-- **Email**: [shakhrashidov@gmail.com]  
-- **GitHub**: [(https://github.com/AkbarshohAbdurashidov/AkbarshohAbdurashidov/tree/main)]  
+- **Email**: [[Link to my Email](shakhrashidov@gmail.com)]  
+- **GitHub**: [[Link to my Github profile](https://github.com/AkbarshohAbdurashidov/AkbarshohAbdurashidov/tree/main)]  
 - **LinkedIn**: [[Link to my LinkedIn profile](https://www.linkedin.com/in/shakh-rashidov-60420625b/)]
 
 Creating impactful software inspires me to keep learning and growing every day. 🙂
