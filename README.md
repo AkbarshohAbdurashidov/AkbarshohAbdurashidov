@@ -1,9 +1,26 @@
-- 👋 Hi, I’m Akbarshokh Abdurashidov
-- 👀 I’m interested in Android Developing
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me [Telegram]
+# 👋 Hello, I'm Akbarshoh!  
 
-<!---
-AkbarshohAbdurashidov/AkbarshohAbdurashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+I’m passionate about mobile app development and have experience in multiple programming languages.  
+Here are my key skills:  
+
+- 🌟 **Dart & Flutter**: My primary tools for building beautiful and functional mobile apps.  
+- 🤖 **Android (Java & Kotlin)**: Experienced in developing and enhancing Android applications.  
+- 🛠️ I enjoy optimizing code, implementing UI/UX designs, and leveraging advanced technologies.
+
+## 💼 Projects
+You can find several exciting projects on my GitHub page:  
+- **[Flutter Applications](#)**: Elegant and feature-rich apps built using Flutter.  
+- **Android Projects**: Apps developed with Java and Kotlin.
+
+## 📚 Interests
+- Mobile application development  
+- Contributing to open-source projects  
+- Continuously learning and experimenting with new technologies  
+
+## 🌐 Get in Touch
+- **Email**: [shakhrashidov@gmail.com]  
+- **GitHub**: [Link to your GitHub profile]  
+- **LinkedIn**: [[Link to my LinkedIn profile](https://www.linkedin.com/in/shakh-rashidov-60420625b/)]
+
+Creating impactful software inspires me to keep learning and growing every day. 🙂
