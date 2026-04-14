@@ -19,30 +19,38 @@
 </p>
 
 ---
-
 # 💼 Featured Projects
 
 <p align="center">
 
-<!-- ROW 1 -->
 <table>
+
+<!-- ROW 1 -->
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🏥 FelixZoo  
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
 💬 Real-time doctor chat  
 ⚡ Fast & scalable system  
 📱 Clean UI/UX  
+
+👉 [View Project](https://github.com/your-link)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### ⛽ E-Gaz Info Kiosk  
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
 🎫 Digital queue system  
 ⭐ Service rating  
 📊 Better customer experience  
+
+👉 [View Project](https://github.com/your-link)
 
 </td>
 
@@ -54,18 +62,26 @@
 <td width="50%" valign="top">
 
 ### 💇‍♂️ Barber CRM  
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
 📅 Appointment management  
 👤 Client tracking  
 📈 Workflow optimization  
+
+👉 [View Project](https://github.com/your-link)
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🏢 Fatima CRM  
+<img src="YOUR_IMAGE_LINK" width="100%"/>
+
 ⚙️ Business automation  
 🧠 Data management  
 🔄 Scalable system  
+
+👉 [View Project](https://github.com/your-link)
 
 </td>
 
@@ -77,9 +93,13 @@
 <td colspan="2" align="center">
 
 ### 🎓 LMS Platform  
+<img src="YOUR_IMAGE_LINK" width="60%"/>
+
 📚 Learning system  
 🎨 Clean UI  
 🚀 In progress  
+
+👉 [View Project](https://github.com/your-link)
 
 </td>
 
