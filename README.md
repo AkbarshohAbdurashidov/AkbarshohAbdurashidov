@@ -10,7 +10,7 @@
 
 <!-- 🏆 TROPHY -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkbarshohAbdurashidov&theme=algolia&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=AkbarshohAbdurashidov&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
