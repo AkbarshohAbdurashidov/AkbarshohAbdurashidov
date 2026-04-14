@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=26&center=true&vCenter=true&width=700&lines=Mobile+Developer;Flutter+Specialist;CRM+%26+Healthcare+Apps;Building+Real+Products;Always+Leveling+Up" />
 </p>
 
-<!-- 🏆 TROPHY -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AkbarshohAbdurashidov&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
