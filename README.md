@@ -22,42 +22,72 @@
 
 # 💼 Featured Projects
 
-<div align="center">
+<p align="center">
 
-### 🏥 FelixZoo (Doctor App)
+<!-- ROW 1 -->
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 FelixZoo  
 💬 Real-time doctor chat  
-⚡️ Fast & scalable system  
+⚡ Fast & scalable system  
 📱 Clean UI/UX  
 
----
+</td>
 
-### ⛽️ E-Gaz Info Kiosk
+<td width="50%" valign="top">
+
+### ⛽ E-Gaz Info Kiosk  
 🎫 Digital queue system  
-⭐️ Service rating system  
-📊 Improved customer experience  
+⭐ Service rating  
+📊 Better customer experience  
 
----
+</td>
 
-### 💇‍♂️ Barber CRM
+</tr>
+
+<!-- ROW 2 -->
+<tr>
+
+<td width="50%" valign="top">
+
+### 💇‍♂️ Barber CRM  
 📅 Appointment management  
-👤 Client tracking system  
+👤 Client tracking  
 📈 Workflow optimization  
 
----
+</td>
 
-### 🏢 Fatima CRM
+<td width="50%" valign="top">
+
+### 🏢 Fatima CRM  
 ⚙️ Business automation  
-🧠 Data & user management  
+🧠 Data management  
 🔄 Scalable system  
 
----
+</td>
 
-### 🎓 LMS Platform
+</tr>
+
+<!-- ROW 3 -->
+<tr>
+
+<td colspan="2" align="center">
+
+### 🎓 LMS Platform  
 📚 Learning system  
 🎨 Clean UI  
 🚀 In progress  
 
-</div>
+</td>
+
+</tr>
+
+</table>
+
+</p>
 
 ---
 
